@@ -1,0 +1,8 @@
+# environment
+fraud_detection_venv/
+
+# datasets
+data/*.csv
+
+# documentation
+docs/
