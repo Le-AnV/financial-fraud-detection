@@ -1,8 +1,13 @@
 # environment
 fraud_detection_venv/
+.env
 
 # datasets
 data/*.csv
 
 # documentation
 docs/
+
+# model machine learning
+checkpoint/*.pkl
+
