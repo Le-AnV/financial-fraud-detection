@@ -1,4 +1,4 @@
-# Financial Transactions Fraud Detection - Hệ Thống Phát Hiện Gian Lận Tài Chính
+# Thiết kế và Tối ưu hóa Cơ sở dữ liệu PostgreSQL trên nền tảng Cloud cho dữ liệu giao dịch tài chính
 
 <div align="center">
 
